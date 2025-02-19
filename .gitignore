@@ -1,0 +1,14 @@
+catboost_info
+mapped_data
+통합데이터
+aihubshell
+CatBoost_model.pkl
+cca_results.xlsx
+chi2_test_results.xlsx
+cox_model_summary.csv
+Decision_Tree_model.pkl
+Gradient_Boosting_model.pkl
+LightGBM_model.pkl
+Random_Forest_model.pkl
+t_test_results.xlsx
+XGBoost_model.pkl
